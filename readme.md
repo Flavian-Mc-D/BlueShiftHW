@@ -1,3 +1,5 @@
 # Github
 
-Arquivo de Teste criado para prova. 
+Arquivo tipo repositorio criado a modo de Teste.
+
+Saiba mais asistiendo o mesmo video que eu asisti. em [Udemy] (www.udemy.com)
